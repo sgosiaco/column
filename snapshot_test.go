@@ -17,8 +17,8 @@ import (
 	"testing"
 
 	"github.com/kelindar/async"
-	"github.com/kelindar/column/commit"
 	"github.com/klauspost/compress/s2"
+	"github.com/sgosiaco/column/commit"
 	"github.com/stretchr/testify/assert"
 )
 

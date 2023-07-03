@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/kelindar/bitmap"
-	"github.com/kelindar/column/commit"
+	"github.com/sgosiaco/column/commit"
 	"github.com/stretchr/testify/assert"
 )
 

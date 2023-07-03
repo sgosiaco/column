@@ -9,7 +9,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/kelindar/column/commit"
+	"github.com/sgosiaco/column/commit"
 )
 
 type recordType interface {

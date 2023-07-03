@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/kelindar/bitmap"
-	"github.com/kelindar/column/commit"
+	"github.com/sgosiaco/column/commit"
 
 	"github.com/tidwall/btree"
 )

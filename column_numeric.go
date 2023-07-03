@@ -7,8 +7,8 @@ import (
 	"fmt"
 
 	"github.com/kelindar/bitmap"
-	"github.com/kelindar/column/commit"
 	"github.com/kelindar/simd"
+	"github.com/sgosiaco/column/commit"
 )
 
 //go:generate go run ./codegen/main.go

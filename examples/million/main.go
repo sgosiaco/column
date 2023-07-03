@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/kelindar/column"
-	"github.com/kelindar/column/fixtures"
+	"github.com/sgosiaco/column"
+	"github.com/sgosiaco/column/fixtures"
 )
 
 func main() {

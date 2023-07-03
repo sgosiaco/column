@@ -2,8 +2,8 @@
 <img width="330" height="110" src=".github/logo.png" border="0" alt="kelindar/column">
 <br>
 <img src="https://img.shields.io/github/go-mod/go-version/kelindar/column" alt="Go Version">
-<a href="https://pkg.go.dev/github.com/kelindar/column"><img src="https://pkg.go.dev/badge/github.com/kelindar/column" alt="PkgGoDev"></a>
-<a href="https://goreportcard.com/report/github.com/kelindar/column"><img src="https://goreportcard.com/badge/github.com/kelindar/column" alt="Go Report Card"></a>
+<a href="https://pkg.go.dev/github.com/sgosiaco/column"><img src="https://pkg.go.dev/badge/github.com/sgosiaco/column" alt="PkgGoDev"></a>
+<a href="https://goreportcard.com/report/github.com/sgosiaco/column"><img src="https://goreportcard.com/badge/github.com/sgosiaco/column" alt="Go Report Card"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
 <a href="https://coveralls.io/github/kelindar/column"><img src="https://coveralls.io/repos/github/kelindar/column/badge.svg" alt="Coverage"></a>
 </p>
@@ -490,7 +490,7 @@ err := players.Restore(src)
 
 ## Examples
 
-Multiple complete usage examples of this library can be found in the [examples](https://github.com/kelindar/column/tree/main/examples) directory in this repository.
+Multiple complete usage examples of this library can be found in the [examples](https://github.com/sgosiaco/column/tree/main/examples) directory in this repository.
 
 ## Benchmarks
 

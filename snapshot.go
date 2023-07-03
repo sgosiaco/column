@@ -12,9 +12,9 @@ import (
 	"unsafe"
 
 	"github.com/kelindar/bitmap"
-	"github.com/kelindar/column/commit"
 	"github.com/kelindar/iostream"
 	"github.com/klauspost/compress/s2"
+	"github.com/sgosiaco/column/commit"
 )
 
 var (

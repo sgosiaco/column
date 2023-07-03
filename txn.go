@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 
 	"github.com/kelindar/bitmap"
-	"github.com/kelindar/column/commit"
+	"github.com/sgosiaco/column/commit"
 )
 
 var (
